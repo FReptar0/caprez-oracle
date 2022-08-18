@@ -1,4 +1,4 @@
-# caprez
+# CAPREZ
 Proyecto Integrador
 
 
